@@ -1,0 +1,23 @@
+#home-id-info {
+
+  padding: 0px 0 !important;
+  top: -30px;
+
+  .et_pb_gutters3 .et_pb_column_1_3 .et_pb_module {
+    margin: 0px !important;
+  }
+
+  h2 {
+    font-size: 28px;
+    font-weight: 300;
+  }
+
+  p, h2 {
+    text-align: center;
+
+    i {
+      font-size: 92px;
+      color: $site-accent;
+    }
+  }
+}

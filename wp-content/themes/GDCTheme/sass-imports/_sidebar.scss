@@ -1,0 +1,15 @@
+#sidebar-widget {
+  border: none;
+  text-align: center;
+
+  .et_pb_widget {
+    margin-bottom: 35px;
+
+    h4.widgettitle {
+      text-align: center;
+      border-top: dotted 1px #ccc;
+      //border-bottom: solid 1px #ccc;
+      padding: 20px 0px;
+    }
+  }
+}

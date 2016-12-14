@@ -1,0 +1,71 @@
+/*
+ Theme Name:   Gap-theory Design Company
+ Theme URI:    http://elegantthemes.com/gallery/
+ Description:  GCD Theme
+ Template:     Divi
+ Version:      1.0.0
+*/
+p {
+  font-size: 16px;
+  padding-top: 20px; }
+
+.gcd-heading {
+  font-family: 'Lato', Helvetica, Arial, Lucida, sans-serif;
+  font-weight: bold;
+  border: solid;
+  display: inline-block;
+  padding: 12px 16px 18px !important; }
+
+.text-white {
+  color: #fff;
+  border-color: #fff; }
+
+@media all and (min-width: 981px) {
+  .et_pb_gutters3 .et_pb_column_1_3 .et_pb_module {
+    margin: 0px !important; } }
+#home-id-info {
+  padding: 0px 0 !important;
+  top: -30px; }
+  #home-id-info .et_pb_gutters3 .et_pb_column_1_3 .et_pb_module {
+    margin: 0px !important; }
+  #home-id-info h2 {
+    font-size: 28px;
+    font-weight: 300; }
+  #home-id-info p, #home-id-info h2 {
+    text-align: center; }
+    #home-id-info p i, #home-id-info h2 i {
+      font-size: 92px;
+      color: #2ea3f2; }
+
+#sidebar-widget {
+  border: none;
+  text-align: center; }
+  #sidebar-widget .et_pb_widget {
+    margin-bottom: 35px; }
+    #sidebar-widget .et_pb_widget h4.widgettitle {
+      text-align: center;
+      border-top: dotted 1px #ccc;
+      padding: 20px 0px; }
+
+#main-header {
+  background-color: rgba(255, 255, 255, 0.8) !important; }
+
+#logo {
+  max-height: 80% !important; }
+
+.et_pb_bg_layout_dark .et_pb_slide_description {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  width: 100%;
+  top: 43%;
+  padding: 0px; }
+
+.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title {
+  font-family: 'Lato', Helvetica, Arial, Lucida, sans-serif;
+  font-weight: bold;
+  border: solid;
+  display: inline-block;
+  padding: 12px 16px 18px;
+  background-color: rgba(0, 0, 0, 0.1) !important; }
+
+/*# sourceMappingURL=style.css.map */

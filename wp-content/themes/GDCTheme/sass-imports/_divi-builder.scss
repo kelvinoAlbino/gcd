@@ -1,0 +1,24 @@
+#main-header {
+  background-color: $site-header-bg !important;
+}
+
+#logo {
+  max-height: 80% !important;
+}
+
+.et_pb_bg_layout_dark .et_pb_slide_description {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  width: 100%;
+  top: 43%;
+  padding: 0px;
+}
+
+.et_pb_fullwidth_slider_0.et_pb_slider .et_pb_slide_description .et_pb_slide_title {
+  font-family: 'Lato', Helvetica, Arial, Lucida, sans-serif;
+  font-weight: bold;
+  border: solid;
+  display: inline-block;
+  padding: 12px 16px 18px;
+  background-color: rgba(0,0,0,0.1) !important;
+}
